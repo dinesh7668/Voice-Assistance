@@ -102,7 +102,7 @@ function takeCommands(message){
         
     }
 
-  content.innerText="make your another queriess"
+  content.innerText="Ask Something Again"
 }
 
 btn.addEventListener('click', () => {
