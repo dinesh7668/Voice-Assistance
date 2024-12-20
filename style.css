@@ -18,8 +18,8 @@ body {
   display: flex;
   /* flex-direction: column; */
   justify-content: center;
-  padding-top: 0.5rem;
-  gap: 5rem;
+/*   padding-top: 0.5rem; */
+  gap: 3rem;
 }
 .card {
   height: 22rem;
